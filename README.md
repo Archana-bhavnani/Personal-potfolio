@@ -1,4 +1,4 @@
-# Personal-potfolio
+# Personal-portfolio
 Hello It's my personal portfolio git repository
 <!DOCTYPE html>
 <html lang="en">
